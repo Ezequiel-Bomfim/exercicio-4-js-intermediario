@@ -1,0 +1,11 @@
+.input{
+    outline: none;
+}
+
+.campo-nao-preenchido{
+    border-color: red;
+}
+
+.campo-preenchido{
+    border-color: green;
+}
